@@ -1,4 +1,4 @@
-# Subnetwork-Simulation
+# Subnetwork Simulation using Cisco Packet Tracer
 Subnet simulation using Cisco Packet Tracer for CSE438L - Data Communication &amp; Network Lab project.
 
 ![Screenshot of the Final Project](https://github.com/mashrufehsan/Subnetwork-Simulation/assets/45356147/496cc566-d2c0-4e49-86fb-46ce2087ac73)
