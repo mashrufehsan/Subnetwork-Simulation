@@ -5,7 +5,7 @@ Subnet simulation using Cisco Packet Tracer for CSE438L - Data Communication &am
 
 Here, I built a subnetwork using Cisco Packet Tracer for my CSE438 DATA COMMUNICATION & NETWORK Lab project.
 
-The project requirements were:
+**The project requirements were:**
 - Figure out the Subnet Mask and Network ID from the given IP address. [192.183.49.0/22]
 - You will have to design a system for a company named "Johnson & Johnson". The company has 5 departments-
 Production, Research & Development, Finance, Sales & Marketing, Human Resources.
